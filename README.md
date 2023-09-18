@@ -30,3 +30,4 @@ El programa cliente permite realizar las siguientes operaciones:
 ## Notas
 1. Se tiene validaciónes en las operaciónes, en caso de no tener levantado el servidor antes de querer realizar una operación, el programa no dejará realizar ninguna de ellas.
 2. Debe haber al menos 1 archivo en la carpeta del servidor para poder realizar algúna operación.
+3. El programa del servidor no cuenta con interfáz grafica, todos los cambios son visto en la línea de comando
